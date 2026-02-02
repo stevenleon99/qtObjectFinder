@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/fluoro">
+        <file>CylinderLine.qml</file>
+        <file>FluoroImage.qml</file>
+        <file>FluoroPseudoAxialView.qml</file>
+        <file>FluoroRegistration.qml</file>
+        <file>FluoroRegistration3dView.qml</file>
+        <file>LineItem.qml</file>
+        <file>fpMain.qml</file>
+        <file>L3_4_L.png</file>
+        <file>L3_4_M.png</file>
+        <file>L3_4_R.png</file>
+        <file>view_border.png</file>
+        <file>FluoroImageScrewOverlay.qml</file>
+        <file>FluoroImageRingOverlay.qml</file>
+        <file>FluoroImageRegistrationHandleOverlay.qml</file>
+        <file>FluoroImageNavigationOverlay.qml</file>
+        <file>FluoroImageCursorOverlay.qml</file>
+    </qresource>
+</RCC>

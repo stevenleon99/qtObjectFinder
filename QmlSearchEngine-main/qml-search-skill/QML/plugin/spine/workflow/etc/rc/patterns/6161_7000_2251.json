@@ -1,0 +1,134 @@
+{
+    "_comment": "Globus_6161_7000_2251",
+    "reference_uuid": "6161_7000_2251_NoUsed",
+    "fiducials": [
+        {
+            "reference_uuid": "52cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                0.0,
+                84.225,
+                57.15
+            ]
+        },
+        {
+            "reference_uuid": "b1544b62-9ce0-4e63-93ea-a8d2eeb7076d",
+            "position": [
+                0.0,
+                -84.225,
+                57.15
+            ]
+        },
+        {
+            "reference_uuid": "750c5b80-0642-466e-961e-e465a58c316d",
+            "position": [
+                84.225,
+                0.0,
+                57.15
+            ]
+        },
+        {
+            "reference_uuid": "a7891a79-5de8-410b-9d62-1c10f83e3f2e",
+            "position": [
+                -84.225,
+                0.0,
+                57.15
+            ]
+        },
+        {
+            "reference_uuid": "05342eba-10ed-4c15-ac9f-eb90c1fe4da2",
+            "position": [
+                0.0,
+                84.225,
+                -57.15
+            ]
+        },
+        {
+            "reference_uuid": "a9731ca7-c32e-4b5b-9c85-4d2131e1adce",
+            "position": [
+                0.0,
+                -84.225,
+                -57.15
+            ]
+        },
+        {
+            "reference_uuid": "dbe85236-2948-4d71-b9fd-4a2c53c8a3b2",
+            "position": [
+                84.225,
+                0.0,
+                -57.15
+            ]
+        },
+        {
+            "reference_uuid": "22e277c9-47f6-4657-82db-e4a34893e819",
+            "position": [
+                -84.225,
+                0.0,
+                -57.15
+            ]
+        },
+        {
+            "reference_uuid": "e1fa0494-fbaa-4acf-a3c1-7aabf9cd086c", 
+            "position": [
+                59.5561,
+                59.5561,
+                31.75
+            ]
+        },
+        {
+            "reference_uuid": "1a5ff789-76da-4a24-82cb-fbc6caa83aca", 
+            "position": [
+                59.5561,
+                -59.5561,
+                31.75
+            ]
+        },
+        {
+            "reference_uuid": "0e1a3c38-6c2d-4a8b-9240-6de18b8a33b0", 
+            "position": [
+                -59.5561,
+                -59.5561,
+                -31.75
+            ]
+        },
+        {
+            "reference_uuid": "bf56ef06-9751-4e08-adcb-bb1b6cc95a52", 
+            "position": [
+                -59.5561,
+                59.5561,
+                31.75
+            ]
+        },
+        {
+            "reference_uuid": "081b904e-28c6-432e-b111-6b5225b1619f",
+            "position": [
+                0.0,
+                84.225,
+                15.875
+            ]
+        },
+        {
+            "reference_uuid": "08b99f99-42af-4c19-9c94-6b4c885eb535",
+            "position": [
+                0.0,
+                -84.225,
+                4.7625
+            ]
+        },
+        {
+            "reference_uuid": "30869606-c85b-4493-a0c7-050d608631d4",
+            "position": [
+                -84.225,
+                0.0,
+                -4.7625
+            ]
+        },
+        {
+            "reference_uuid": "22bb502c-bc3c-4cec-9b91-982fea2585be",
+            "position": [
+                84.225,
+                0.0,
+                -15.875
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/general/view/image-thru-off</title>
+    <g id="icon/general/view/image-thru-off" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M44,41 L41,44 L26,29 L26,36 L30,36 L24,44 L18,36 L22,36 L22,25 L17,20 L14,20 L14,28 L18,28 L18,32 L12,32 C10.8954305,32 10,31.1045695 10,30 L10,18 C10,16.8954305 10.8954305,16 12,16 L13,16 L4,7 L7,4 L44,41 Z M24,4 L30,12 L26,12 L26,16 L36,16 C37.1045695,16 38,16.8954305 38,18 L38,29 L34,25 L34,20 L29,20 L22,13 L22,12 L21,12 L19.286,10.286 L24,4 Z" id="icon" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

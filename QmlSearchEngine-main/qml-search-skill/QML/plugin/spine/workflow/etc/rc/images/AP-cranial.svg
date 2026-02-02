@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>component/cranial/fluoro-orient/AP</title>
+    <g id="component/cranial/fluoro-orient/AP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="8" y="8" width="112" height="8"></rect>
+        <path d="M120,24 L72,120 L56,120 L8,24 L120,24 Z M66,44 L62,44 L60.9264767,48.2949176 C53.5603866,49.7281252 48,56.2147136 48,64 C48,72.836556 55.163444,80 64,80 C72.836556,80 80,72.836556 80,64 C80,56.2150643 74.4401143,49.7287095 67.0745187,48.2951113 L66,44 Z M45.6641945,55.9999548 L40,56 C35.581722,56 32,59.581722 32,64 C32,68.418278 35.581722,72 40,72 L40,72 L45.6646304,72.0010428 C44.5939585,69.5509185 44,66.8448225 44,64 C44,61.1555637 44.5937973,58.4498161 45.6641945,55.9999548 Z M88,56 L82.3358055,55.9999548 C83.4062027,58.4498161 84,61.1555637 84,64 C84,66.8448225 83.4060415,69.5509185 82.3353696,72.0010428 L88,72 C92.418278,72 96,68.418278 96,64 C96,59.581722 92.418278,56 88,56 L88,56 Z" id="Combined-Shape" fill="#0099FF" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/arrow-mid-point</title>
+    <g id="icon/arrow-mid-point" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M9,12 L21,24 L9,36 L9,27 L3,27 L3,21 L9,21 L9,12 Z M39,12 L39,21 L45,21 L45,27 L39,27 L39,36 L27,24 L39,12 Z M27,12 L27,36 L21,36 L21,12 L27,12 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

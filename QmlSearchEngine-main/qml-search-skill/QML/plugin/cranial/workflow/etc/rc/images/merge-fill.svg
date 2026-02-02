@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/general/view/merge-fill</title>
+    <g id="icon/general/view/merge-fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M32,6 C33.1045695,6 34,6.8954305 34,8 L34,14 L40,14 C41.1045695,14 42,14.8954305 42,16 L42,40 C42,41.1045695 41.1045695,42 40,42 L16,42 C14.8954305,42 14,41.1045695 14,40 L14,34 L8,34 C6.8954305,34 6,33.1045695 6,32 L6,8 C6,6.8954305 6.8954305,6 8,6 L32,6 Z M38,18 L34,18 L34,32 C34,33.0543618 33.1841222,33.9181651 32.1492623,33.9945143 L32,34 L18,34 L18,38 L38,38 L38,18 Z M30,10 L10,10 L10,30 L14,30 L14,16 C14,14.8954305 14.8954305,14 16,14 L30,14 L30,10 Z" id="icon" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

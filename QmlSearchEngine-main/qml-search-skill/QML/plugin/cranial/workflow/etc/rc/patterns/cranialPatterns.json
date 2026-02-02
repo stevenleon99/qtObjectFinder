@@ -1,0 +1,514 @@
+{
+  "version": "1.5.0",
+  "tools": [
+    {
+      "~metadata": {
+        "instrument_name": "DRB Cranial"
+      },
+      "instrument_uuid": "1c3d5489-5cbb-4b1a-9ee2-d966f58a7fd6",
+      "border_angle": 0.0,
+      "border_inner_height": 0.0,
+      "border_width": 0.0,
+      "min_required_fiducial_count": 4,
+      "diameter": 12.7,
+      "fiducial_type": 0,
+      "max_3d_marker_error": 0.5,
+      "markers": [
+        {
+          "normal": [ 0.0, 0.0, 1.0 ],
+          "position": [ -66.5, -55.0, 0 ]
+        },
+        {
+          "normal": [ 0.0, 0.0, 1.0 ],
+          "position": [ -67.0, 60.0, 0 ]
+        },
+        {
+          "normal": [ 0.0, 0.0, 1.0 ],
+          "position": [ 66.5, 60.5, 0 ]
+        },
+        {
+          "normal": [ 0.0, 0.0, 1.0 ],
+          "position": [ 76.0, -58.5, 0 ]
+        }
+      ]
+    },
+    {
+      "~metadata": {
+        "instrument_name": "Leksell FRA"
+      },
+      "instrument_uuid": "c0610828-d8ef-4cff-b9f9-948da6356d7b",
+      "border_angle": 0.0,
+      "border_inner_height": 0.0,
+      "border_width": 0.0,
+      "min_required_fiducial_count": 5,
+      "diameter": 12.7,
+      "fiducial_type": 0,
+      "max_3d_marker_error": 0.5,
+      "markers": [
+        {
+          "normal": [ 0.0, -0.087156, -0.9962 ],
+          "position": [ 0.0, -109.323, -108.141 ]
+        },
+        {
+          "normal": [ 0.0, -0.087156, -0.9962 ],
+          "position": [ -20.0, -159.133, -112.499 ]
+        },
+        {
+          "normal": [ 0.0, -0.087156, -0.9962 ],
+          "position": [ 65.0, -179.056, -114.242 ]
+        },
+        {
+          "normal": [ 0.0, -0.087156, -0.9962 ],
+          "position": [ 140.0, -169.094, -113.37 ]
+        },
+        {
+          "normal": [ 0.0, -0.087156, -0.9962 ],
+          "position": [ 185.0, -113.308, -108.489 ]
+        }
+      ]
+    },
+    {
+      "~metadata": {
+        "instrument_name": "CRW FRA"
+      },
+      "instrument_uuid": "c9800568-d9a3-4ebd-aaa5-ab467b9feb36",
+      "border_angle": 0.0,
+      "border_inner_height": 0.0,
+      "border_width": 0.0,
+      "min_required_fiducial_count": 5,
+      "diameter": 12.7,
+      "fiducial_type": 0,
+      "max_3d_marker_error": 0.5,
+      "markers": [
+        {
+          "normal": [ 0.0, -0.087156, 0.9962 ],
+          "position": [ -107.76, 188.074, 32.9553 ]
+        },
+        {
+          "normal": [ 0.0, -0.087156, 0.9962 ],
+          "position": [ -147.76, 233.899, 36.9644 ]
+        },
+        {
+          "normal": [ 0.0, -0.087156, 0.9962 ],
+          "position": [ -32.76, 273.747, 40.4507 ]
+        },
+        {
+          "normal": [ 0.0, -0.087156, 0.9962 ],
+          "position": [ 107.24, 248.842, 38.2718 ]
+        },
+        {
+          "normal": [ 0.0, -0.087156, 0.9962 ],
+          "position": [ 107.24, 184.089, 32.6066 ]
+        }
+      ]
+    },
+    {
+      "~metadata": {
+        "instrument_name": "ICT"
+      },
+      "instrument_uuid": "00e05aa1-ef00-4e74-be22-4f5d550d078a",
+      "border_angle": 0.0,
+      "border_inner_height": 0.0,
+      "border_width": 0.0,
+      "min_required_fiducial_count": 4,
+      "diameter": 12.7,
+      "fiducial_type": 0,
+      "max_3d_marker_error": 0.75,
+      "markers": [
+        {
+          "normal": [ 0.0, 0.0, 1.0 ],
+          "position": [ 13.5, 42.5, 46.98 ]
+        },
+        {
+          "normal": [ 0.0, 0.0, 1.0 ],
+          "position": [ 13.5, -20.0, 46.98 ]
+        },
+        {
+          "normal": [ 0.0, 0.0, 1.0 ],
+          "position": [ -71.5, -53.0, 41.98 ]
+        },
+        {
+          "normal": [ 0.0, 0.0, 1.0 ],
+          "position": [ -71.5, 45.0, 56.98 ]
+        }
+      ]
+    },
+    {
+      "~metadata": {
+        "instrument_name": "Trajectory Probe"
+      },
+      "instrument_uuid": "ccc5e598-8c36-4b00-95e5-fd055186a66d",
+      "border_angle": 0.0,
+      "border_inner_height": 0.0,
+      "border_width": 0.0,
+      "min_required_fiducial_count": 4,
+      "diameter": 12.7,
+      "fiducial_type": 0,
+      "max_3d_marker_error": 0.75,
+      "markers": [
+        {
+          "normal": [ 0.0, 0.0, 1.0 ],
+          "position": [ 28.52, -51.30, 159.44 ]
+        },
+        {
+          "normal": [ 0.0, 0.0, 1.0 ],
+          "position": [ -28.54, -28.95, 159.44 ]
+        },
+        {
+          "normal": [ 0.0, 0.0, 1.0 ],
+          "position": [ 21.98, 50.05, 159.44 ]
+        },
+        {
+          "normal": [ 0.0, 0.0, 1.0 ],
+          "position": [ -26.00, 51.50, 159.44 ]
+        }
+      ]
+    },
+    {
+      "~metadata": {
+        "instrument_name": "Verification Probe"
+      },
+      "instrument_uuid": "37b85b62-5b1a-4447-bcbb-3ffb86077e57",
+      "part_number": "6143.2525",
+      "border_angle": 0.0,
+      "border_inner_height": 0.0,
+      "border_width": 0.0,
+      "min_required_fiducial_count": 4,
+      "diameter": 12.7,
+      "fiducial_type": 0,
+      "max_3d_marker_error": 0.75,
+      "markers": [
+        {
+          "normal": [ 1.0, 0.0, 0.0 ],
+          "position": [ 0.00, -43.30, 296.40 ]
+        },
+        {
+          "normal": [ 1.0, 0.0, 0.0 ],
+          "position": [ 0.00, 0.00, 321.40 ]
+        },
+        {
+          "normal": [ 1.0, 0.0, 0.0 ],
+          "position": [ 0.00, 43.30, 284.90 ]
+        },
+        {
+          "normal": [ 1.0, 0.0, 0.0 ],
+          "position": [ 0.00, 0.00, 200.40 ]
+        }
+      ]
+    },
+    {
+      "~metadata": {
+        "instrument_name": "IGEE"
+      },
+      "instrument_uuid": "936ce498-5688-469a-9de0-eba215f40348",
+      "border_angle": 0.0,
+      "border_inner_height": 0.0,
+      "border_width": 0.0,
+      "min_required_fiducial_count": 3,
+      "diameter": 12.7,
+      "fiducial_type": 2,
+      "max_3d_marker_error": 0.75,
+      "markers": [
+        {
+          "normal": [ 0.0, 0.0, 1.0 ],
+          "position": [ 14.69, -35.67, -7.92 ]
+        },
+        {
+          "normal": [ 0.0, 0.0, 1.0 ],
+          "position": [ -59.61, -27.50, 21.98 ]
+        },
+        {
+          "normal": [ 0.0, 0.0, 1.0 ],
+          "position": [ -59.61, 27.50, 21.98 ]
+        },
+        {
+          "normal": [ 0.0, 0.0, 1.0 ],
+          "position": [ 19.23, 36.34, -9.75 ]
+        },
+        {
+          "normal": [ 0.2349, -0.8529, 0.4663 ],
+          "position": [ 43.43, -40.00, -19.55 ]
+        },
+        {
+          "normal": [ 0.2349, -0.8529, 0.4663 ],
+          "position": [ -61.19, -49.31, -54.08 ]
+        },
+        {
+          "normal": [ 0.2349, -0.8529, 0.4663 ],
+          "position": [ -55.15, -40.50, 6.97 ]
+        },
+        {
+          "normal": [ 0.2349, 0.8529, 0.4663 ],
+          "position": [ 43.43, 40.00, -19.55 ]
+        },
+        {
+          "normal": [ 0.2349, 0.8529, 0.4663 ],
+          "position": [ -61.69, 49.31, -50.04 ]
+        },
+        {
+          "normal": [ 0.2349, 0.8529, 0.4663 ],
+          "position": [ -55.15, 40.50, 6.97 ]
+        }
+      ]
+    },
+    {
+      "~metadata": {
+        "instrument_name": "Fluoro Fixture 9in IIT"
+      },
+      "instrument_uuid": "b8bb1e52-f416-4bf0-854a-5ce5717871ed",
+      "border_angle": 0.0,
+      "border_inner_height": 0.0,
+      "border_width": 0.0,
+      "min_required_fiducial_count": 4,
+      "diameter": 12.7,
+      "fiducial_type": 0,
+      "max_3d_marker_error": 0.35,
+      "markers": [
+        {
+          "normal": [ 0.0000, -1.0000, 0.0000 ],
+          "position": [ -199.5, -78.78, -4.14 ]
+        },
+        {
+          "normal": [ 0.0000, -1.0000, 0.0000 ],
+          "position": [ -138.00, -78.78, -97.31 ]
+        },
+        {
+          "normal": [ 0.0000, -1.0000, 0.0000 ],
+          "position": [ 187.50, -103.78, -4.14 ]
+        },
+        {
+          "normal": [ 0.0000, -1.0000, 0.0000 ],
+          "position": [ 138.00, -83.78, -97.31 ]
+        },
+        {
+          "normal": [ 0.0000, -1.0000, 0.0000 ],
+          "position": [ -26.17, -213.18, -4.14 ]
+        },
+        {
+          "normal": [ 0.0000, -1.0000, 0.0000 ],
+          "position": [ 15.22, -158.05, -97.31 ]
+        }
+      ]
+    },
+    {
+      "~metadata": {
+        "instrument_name": "Fluoro Fixture 12in IIT"
+      },
+      "instrument_uuid": "f1283211-a076-492d-bf18-2f4459ccd7e4",
+      "border_angle": 0.0,
+      "border_inner_height": 0.0,
+      "border_width": 0.0,
+      "min_required_fiducial_count": 4,
+      "diameter": 12.7,
+      "fiducial_type": 0,
+      "max_3d_marker_error": 0.35,
+      "markers": [
+        {
+          "normal": [ 0.0000, -1.0000, 0.0000 ],
+          "position": [ -113.00, -173.23, -0.22 ]
+        },
+        {
+          "normal": [ 0.0000, -1.0000, 0.0000 ],
+          "position": [ -144.00, -146.34, -97.93 ]
+        },
+        {
+          "normal": [ 0.0000, -1.0000, 0.0000 ],
+          "position": [ 1.00, -200.64, -1.42 ]
+        },
+        {
+          "normal": [ 0.0000, -1.0000, 0.0000 ],
+          "position": [ 1.00, -200.64, -94.93 ]
+        },
+        {
+          "normal": [ 0.0000, -1.0000, 0.0000 ],
+          "position": [ 107.50, -174.12, -0.93 ]
+        },
+        {
+          "normal": [ 0.0000, -1.0000, 0.0000 ],
+          "position": [ 134.00, -155.38, -97.93 ]
+        }
+      ]
+    },
+    {
+      "~metadata": {
+        "instrument_name": "Fluoro Fixture 31 cm Flat Panel Array"
+      },
+      "instrument_uuid": "8b9238f7-19b2-4456-9a35-8ae3f1cbc998",
+      "border_angle": 0.0,
+      "border_inner_height": 0.0,
+      "border_width": 0.0,
+      "min_required_fiducial_count": 5,
+      "diameter": 12.7,
+      "fiducial_type": 0,
+      "max_3d_marker_error": 0.35,
+      "markers": [
+        {
+          "normal": [ 1.0000, 0.0000, 0.0000 ],
+          "position": [ 269.22, -125.00, 146.50 ]
+        },
+        {
+          "normal": [ 1.0000, 0.0000, 0.0000 ],
+          "position": [ 269.22, -1.00, 143.00 ]
+        },
+        {
+          "normal": [ 1.0000, 0.0000, 0.0000 ],
+          "position": [ 269.22, 94.00, 139.00 ]
+        },
+        {
+          "normal": [ 1.0000, 0.0000, 0.0000 ],
+          "position": [ 269.22, 143.00, 36.00 ]
+        },
+        {
+          "normal": [ 1.0000, 0.0000, 0.0000 ],
+          "position": [ 269.22, -38.00, 50.00 ]
+        },
+        {
+          "normal": [ 1.0000, 0.0000, 0.0000 ],
+          "position": [ 269.22, -165.00, 30.00 ]
+        }
+      ]
+    },
+    {
+      "~metadata": {
+        "instrument_name": "Igee Accuracy"
+      },
+      "instrument_uuid": "c52ffb80-a95b-402a-8a96-8434494930c5",
+      "border_angle": 0.0,
+      "border_inner_height": 0.0,
+      "border_width": 0.0,
+      "min_required_fiducial_count": 4,
+      "diameter": 12.7,
+      "fiducial_type": 0,
+      "max_3d_marker_error": 0.75,
+      "markers": [
+        {
+          "normal": [ 0.707, 0, 0.707 ],
+          "position": [ 85.894, 0.0, 16.074 ]
+        },
+        {
+          "normal": [ 0.707, 0, 0.707 ],
+          "position": [ 106.11, 41.02, -4.142 ]
+        },
+        {
+          "normal": [ 0.707, 0, 0.707 ],
+          "position": [ 137.223, 0.57, -35.254 ]
+        },
+        {
+          "normal": [ 0.707, 0, 0.707 ],
+          "position": [ 106.11, -46.98, -4.142 ]
+        }
+      ]
+    },
+    {
+      "~metadata": {
+        "instrument_name": "Accuracy Probe"
+      },
+      "instrument_uuid": "66b9ce17-717f-4ffe-83e0-0b7649631812",
+      "border_angle": 0.0,
+      "border_inner_height": 0.0,
+      "border_width": 0.0,
+      "min_required_fiducial_count": 4,
+      "diameter": 12.7,
+      "fiducial_type": 0,
+      "max_3d_marker_error": 0.75,
+      "markers": [
+        {
+          "normal": [ 1.0, 0.0, 0.0 ],
+          "position": [ 57.153, 25.249, 41.587 ]
+        },
+        {
+          "normal": [ 1.0, 0.0, 0.0 ],
+          "position": [ 57.153, -24.95, 41.816 ]
+        },
+        {
+          "normal": [ 1.0, 0.0, 0.0 ],
+          "position": [ 57.153, 24.95, -23.716 ]
+        },
+        {
+          "normal": [ 1.0, 0.0, 0.0 ],
+          "position": [ 57.153, -29.498, -28.962 ]
+        }
+      ]
+    },
+    {
+      "instrument_name": "E3D Left Face Array",
+      "border_angle": 0,
+      "border_inner_height": 0,
+      "border_width": 0,
+      "diameter": 0,
+      "fiducial_type": 2,
+      "max_3d_marker_error": 0.35,
+      "min_required_fiducial_count": 5,
+      "memo": "",
+      "part_number": "",
+      "instrument_uuid": "d952eb9f-7ad2-4b1b-b3ce-386735205990",
+      "markers": [
+        {
+          "max_marker_angle": 50,
+          "normal": [ 0.0, 0.0, -1.0 ],
+          "position": [ -526.5, 541.7, -181.088]
+        },
+        {
+          "max_marker_angle": 50,
+          "normal": [ 0.0, 0.0, -1.0 ],
+          "position": [ -573.5, 631.5, -181.088]
+        },
+        {
+          "max_marker_angle": 50,
+          "normal": [ 0.0, 0.0, -1.0 ],
+          "position": [ -656.0, 379.5, -181.088]
+        },
+        {
+          "max_marker_angle": 50,
+          "normal": [ 0.0, 0.0, -1.0 ],
+          "position": [ -701.0, 487.0, -181.088]
+        },
+        {
+          "max_marker_angle": 50,
+          "normal": [ 0.0, 0.0, -1.0 ],
+          "position": [ -764.0, 380.0, -181.088]
+        }
+      ]
+    },
+    {
+      "instrument_name": "E3D Right Face Array",
+      "border_angle": 0,
+      "border_inner_height": 0,
+      "border_width": 0,
+      "diameter": 0,
+      "fiducial_type": 2,
+      "max_3d_marker_error": 0.35,
+      "min_required_fiducial_count": 5,
+      "memo": "",
+      "part_number": "",
+      "instrument_uuid": "ed280816-e404-444a-a2d9-ffd2d171f928",
+      "markers": [
+        {
+          "max_marker_angle": 50,
+          "normal": [ 0.0, 0.0, 1.0 ],
+          "position": [ -547.5, 522.0, 181.088]
+        },
+        {
+          "max_marker_angle": 50,
+          "normal": [ 0.0, 0.0, 1.0 ],
+          "position": [ -573.5, 631.5, 181.088]
+        },
+        {
+          "max_marker_angle": 50,
+          "normal": [ 0.0, 0.0, 1.0 ],
+          "position": [ -670.0, 350.0, 181.088]
+        },
+        {
+          "max_marker_angle": 50,
+          "normal": [ 0.0, 0.0, 1.0 ],
+          "position": [ -698.5, 490.0, 181.088]
+        },
+        {
+          "max_marker_angle": 50,
+          "normal": [ 0.0, 0.0, 1.0],
+          "position": [ -764.0, 380.0, 181.088]
+        }
+      ]
+    }
+  ]
+}

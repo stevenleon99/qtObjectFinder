@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/general/view/slice-lines</title>
+    <g id="icon/general/view/slice-lines" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M39,9 C41.209139,9 43,10.790861 43,13 L43,35 C43,37.209139 41.209139,39 39,39 L9,39 C6.790861,39 5,37.209139 5,35 L5,13 C5,10.790861 6.790861,9 9,9 L39,9 Z M39,13 L9,13 L9,35 L39,35 L39,13 Z M25,31 L25,33 L23,33 L23,31 L25,31 Z M25,27 L25,29 L23,29 L23,27 L25,27 Z M25,23 L25,25 L23,25 L23,23 L25,23 Z M21,23 L21,25 L19,25 L19,23 L21,23 Z M29,23 L29,25 L27,25 L27,23 L29,23 Z M33,23 L33,25 L31,25 L31,23 L33,23 Z M37,23 L37,25 L35,25 L35,23 L37,23 Z M17,23 L17,25 L15,25 L15,23 L17,23 Z M13,23 L13,25 L11,25 L11,23 L13,23 Z M25,19 L25,21 L23,21 L23,19 L25,19 Z M25,15 L25,17 L23,17 L23,15 L25,15 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

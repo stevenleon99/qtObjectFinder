@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/auto-brightness-contrast</title>
+    <g id="icon/auto-brightness-contrast" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M24,1.372583 L30.626583,7.999583 L40,8 L39.999583,17.372583 L46.627417,24 L39.999583,30.626583 L40,40 L30.626583,39.999583 L24,46.627417 L17.372583,39.999583 L8,40 L7.999583,30.626583 L1.372583,24 L7.999583,17.372583 L8,8 L17.372583,7.999583 L24,1.372583 Z M25.609375,14.9375 L22.3515625,14.9375 L16,32 L19.7382812,32 L20.9101562,28.484375 L27.0742187,28.484375 L28.2578125,32 L31.9960937,32 L25.609375,14.9375 Z M23.9804687,19.25 L26.125,25.6367188 L21.859375,25.6367188 L23.9804687,19.25 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

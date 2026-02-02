@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/ehubsettings/qml">
+        <file alias="EhubSettingsPlugin.qml">qml/EhubSettingsPlugin.qml</file>
+        <file alias="EhubSettings.qml">qml/EhubSettings.qml</file>
+        <file alias="TrackerInfo.qml">qml/TrackerInfo.qml</file>
+        <file alias="HeadsetCalibration.qml">qml/HeadsetCalibration.qml</file>
+        <file alias="SettingsDescription.qml">qml/SettingsDescription.qml</file>
+        <file alias="HeadsetCalibrationPopup.qml">qml/HeadsetCalibrationPopup.qml</file>
+    </qresource>
+</RCC>

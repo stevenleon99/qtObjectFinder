@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>component/cranial-head-front</title>
+    <g id="component/cranial-head-front" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M40,8 C53.254834,8 64,18.745166 64,32 L64,36 C64,41.2782856 62.5394934,46.2154517 60.0005582,50.4294201 L60,72 L36,72 L36,64 L36,64 L16,64 L16,52 L8,52 L16,36 L16,32 C16,18.745166 26.745166,8 40,8 Z" id="outline" stroke="#5E8095" stroke-width="2"></path>
+    </g>
+</svg>

@@ -1,0 +1,326 @@
+{
+    "_comment": "Globus_2DP_001",
+    "reference_uuid": "2DP_001_NoUsed",
+    "fiducials": [
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                -0.131,
+                25.095,
+                0.037
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                -0.096,
+                50.167,
+                0.186
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                -0.085,
+                75.191,
+                0.424
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                0.0,
+                100.252,
+                0.506
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                62.408,
+                87.779,
+                0.078
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                12.446,
+                12.593,
+                0.114
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                12.394,
+                62.699,
+                0.171
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                12.366,
+                37.668,
+                0.09
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                24.953,
+                0.144,
+                -0.035
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                12.438,
+                87.716,
+                0.252
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                24.895,
+                25.176,
+                -0.038
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                24.863,
+                50.185,
+                0.037
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                24.905,
+                75.209,
+                0.207
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                24.947,
+                100.267,
+                0.263
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                37.41,
+                12.746,
+                -0.009
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                37.339,
+                37.743,
+                -0.009
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                37.374,
+                62.749,
+                0.062
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                49.912,
+                0.273,
+                -0.089
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                37.418,
+                87.722,
+                0.182
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                49.865,
+                25.294,
+                0.122
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                49.827,
+                50.321,
+                -0.219
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                49.879,
+                75.266,
+                -0.06
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                49.914,
+                100.275,
+                0.15
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                62.375,
+                12.871,
+                -0.017
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                62.309,
+                37.875,
+                -0.205
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                62.349,
+                62.818,
+                -0.059
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                74.882,
+                0.429,
+                -0.084
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                74.804,
+                50.344,
+                -0.084
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                74.833,
+                25.423,
+                0.021
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                74.896,
+                75.32,
+                -0.048
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                74.895,
+                100.34,
+                -0.005
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                87.35,
+                12.954,
+                -0.103
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                87.331,
+                37.918,
+                -0.003
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                87.318,
+                62.883,
+                -0.088
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                87.404,
+                87.863,
+                -0.104
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                99.841,
+                0.478,
+                -0.184
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                99.831,
+                25.474,
+                -0.217
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                99.837,
+                75.374,
+                0.004
+            ]
+        },
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                99.879,
+                100.386,
+                0.023
+            ]
+        }
+    ]
+}

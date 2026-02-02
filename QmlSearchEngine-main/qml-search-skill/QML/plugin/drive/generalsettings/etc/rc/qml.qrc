@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/generalsettings/qml">
+        <file alias="SystemSettingsPlugin.qml">qml/SystemSettingsPlugin.qml</file>
+        <file alias="SettingsDescription.qml">qml/SettingsDescription.qml</file>
+        <file alias="GeneralSettings.qml">qml/GeneralSettings.qml</file>
+        <file alias="NetworkSettings.qml">qml/NetworkSettings.qml</file>
+        <file alias="FluoroscopySettings.qml">qml/FluoroscopySettings.qml</file>
+        <file alias="TroubleshootingSettings.qml">qml/TroubleshootingSettings.qml</file>
+        <file alias="ScanManagerSettings.qml">qml/ScanManagerSettings.qml</file>
+        <file alias="common/DividerLine.qml">qml/common/DividerLine.qml</file>
+        <file alias="NetworkAddressField.qml">qml/NetworkAddressField.qml</file>
+        <file alias="LocationsPopup.qml">qml/LocationsPopup.qml</file>
+        <file alias="LicensingSettings.qml">qml/LicensingSettings.qml</file>
+        <file alias="LicenseCodePopup.qml">qml/LicenseCodePopup.qml</file>
+	<file alias="NetAccessButton.qml">qml/NetAccessButton.qml</file>
+        <file alias="NetworkStatusRow.qml">qml/NetworkStatusRow.qml</file>
+    </qresource>
+</RCC>

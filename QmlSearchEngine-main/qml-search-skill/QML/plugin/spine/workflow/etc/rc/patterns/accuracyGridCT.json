@@ -1,0 +1,630 @@
+{
+    "_comment": "SPINE accuracy test plate accuracyGridCT",
+    "reference_uuid": "accuracyGridCT",
+    "fiducials": [
+        {
+            "reference_uuid": "62cee41f-cdae-45c9-821b-61d83f98f937",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "c1544b62-9ce0-4e63-93ea-a8d2eeb7076d",
+            "position": [
+                0.0,
+                25.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "850c5b80-0642-466e-961e-e465a58c316d",
+            "position": [
+                0.0,
+                50.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "b7891a79-5de8-410b-9d62-1c10f83e3f2e",
+            "position": [
+                0.0,
+                75.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "15342eba-10ed-4c15-ac9f-eb90c1fe4da2",
+            "position": [
+                0.0,
+                100.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "b9731ca7-c32e-4b5b-9c85-4d2131e1adce",
+            "position": [
+                25.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "ebe85236-2948-4d71-b9fd-4a2c53c8a3b2",
+            "position": [
+                25.0,
+                25.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "42e277c9-47f6-4657-82db-e4a34893e819",
+            "position": [
+                25.0,
+                50.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "f1fa0494-fbaa-4acf-a3c1-7aabf9cd086c",
+            "position": [
+                25.0,
+                75.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "2a5ff789-76da-4a24-82cb-fbc6caa83aca",
+            "position": [
+                25.0,
+                100.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "1e1a3c38-6c2d-4a8b-9240-6de18b8a33b0",
+            "position": [
+                50.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "cf56ef06-9751-4e08-adcb-bb1b6cc95a52",
+            "position": [
+                50.0,
+                25.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "181b904e-28c6-432e-b111-6b5225b1619f",
+            "position": [
+                50.0,
+                50.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "28b99f99-42af-4c19-9c94-6b4c885eb535",
+            "position": [
+                50.0,
+                75.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "40869606-c85b-4493-a0c7-050d608631d4",
+            "position": [
+                50.0,
+                100.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "32bb502c-bc3c-4cec-9b91-982fea2585be",
+            "position": [
+                75.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "75a69d31-70ef-4354-b720-de6a81e702c1",
+            "position": [
+                75.0,
+                25.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "d6d01f75-1246-4fbe-88bd-4b42a3b97800",
+            "position": [
+                75.0,
+                50.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "958d1ab6-1cb3-4e3d-bea8-8fa68a5caf2f",
+            "position": [
+                75.0,
+                75.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "c6c156d0-e496-404c-9362-b6f7ced8365a",
+            "position": [
+                75.0,
+                100.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "8e1391b1-233b-4fc7-8145-ca3692d03657",
+            "position": [
+                100.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "2892894f-648b-4a54-85d5-1e34ed02fa12",
+            "position": [
+                100.0,
+                25.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "516466b5-af9f-4506-b4a4-59e0523673ba",
+            "position": [
+                100.0,
+                50.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "fb6949e7-dea9-43e1-ab29-79e0f42e9d52",
+            "position": [
+                100.0,
+                75.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "f2090962-faa0-409c-a352-198f02d0e313",
+            "position": [
+                100.0,
+                100.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "2fae0b7c-7f3f-4e08-8cdc-c04e0f68fcd0",
+            "position": [
+                0.0,
+                0.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "c2b3a282-62c2-4a66-a648-e0921e317193",
+            "position": [
+                0.0,
+                25.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "5d4f4383-760d-477e-9302-9d77c819ac4a",
+            "position": [
+                0.0,
+                50.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "bff87a53-b72e-4df7-b67c-bc0151355d2f",
+            "position": [
+                0.0,
+                75.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "b50c0a8e-4365-452e-93a2-40a2651cf662",
+            "position": [
+                0.0,
+                100.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "a2874765-5be6-4cc0-803d-2f54d7eab7c6",
+            "position": [
+                25.0,
+                0.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "470fb0ac-dbcc-48b5-961e-7bc020b3282e",
+            "position": [
+                25.0,
+                25.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "93f5c1e4-4ffc-4675-a0f1-7aca0b6d99e8",
+            "position": [
+                25.0,
+                50.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "0b0d8e90-997e-4c8e-8a22-20069973f528",
+            "position": [
+                25.0,
+                75.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "0edbbd48-6011-40bf-820a-1ae7c32f9b93",
+            "position": [
+                25.0,
+                100.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "32f9102f-c745-477a-a2cd-063eddd2dd1c",
+            "position": [
+                50.0,
+                0.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "0a82852a-db10-48ea-b81e-16a367e66a24",
+            "position": [
+                50.0,
+                25.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "36b7159f-64d6-45a0-a7d6-fe73ef7846e2",
+            "position": [
+                50.0,
+                50.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "2de601a2-594a-4e9e-bd98-476a66ca6149",
+            "position": [
+                50.0,
+                75.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "e252823c-34d0-428b-9e22-cd9c9ba159e2",
+            "position": [
+                50.0,
+                100.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "93308203-1eb0-4fde-83b6-dda75a897e80",
+            "position": [
+                75.0,
+                0.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "1385520b-d918-41c9-82a7-c2d59cdcf983",
+            "position": [
+                75.0,
+                25.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "4c2214dc-a4ed-4a1e-acf5-35ee2447ca35",
+            "position": [
+                75.0,
+                50.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "40c1f3d7-16af-43d8-a2ea-e4600269b36e",
+            "position": [
+                75.0,
+                75.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "09ba4a59-f730-411f-9b08-2fd64c33d82c",
+            "position": [
+                75.0,
+                100.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "49bae894-0655-40ac-b9e5-192912ae2faa",
+            "position": [
+                100.0,
+                0.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "6625ad82-3ea6-461c-bf34-3ebc6f445f36",
+            "position": [
+                100.0,
+                25.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "b9ed1271-3a84-4bf2-83fa-5f37c2a8cc4f",
+            "position": [
+                100.0,
+                50.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "45b2b660-89b9-43c5-9e13-95343996ba57",
+            "position": [
+                100.0,
+                75.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "84dec459-17db-44b4-bfe5-9d979ba2849b",
+            "position": [
+                100.0,
+                100.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "ec0afe1c-5186-42da-9719-9f789e390210",
+            "position": [
+                0.0,
+                0.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "f602b22b-85e8-4876-8256-552d8e08bb8e",
+            "position": [
+                0.0,
+                25.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "adb9e0d2-1150-49d5-ba63-9655abe8359b",
+            "position": [
+                0.0,
+                50.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "ef5e325a-8a76-48d6-937f-9adf7329fd4d",
+            "position": [
+                0.0,
+                75.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "4ebe204a-6c34-45be-aa22-e5b69ee92dae",
+            "position": [
+                0.0,
+                100.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "712e53b2-47f2-412d-86e3-f55a31bef6ef",
+            "position": [
+                25.0,
+                0.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "a68530bb-a768-460b-9c6c-cf8a51137011",
+            "position": [
+                25.0,
+                25.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "ae221d78-4ae1-45e4-9ec0-67f109ddac7a",
+            "position": [
+                25.0,
+                50.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "baf8f5c0-b804-4a98-9946-6d738c4ac7c6",
+            "position": [
+                25.0,
+                75.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "d2d7de71-375f-4887-bc75-588c3a6880d5",
+            "position": [
+                25.0,
+                100.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "7849a58a-8036-473c-ae34-1df0a67b1265",
+            "position": [
+                50.0,
+                0.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "95c1d123-eb23-4e7a-ac5c-021221b10a7b",
+            "position": [
+                50.0,
+                25.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "9b7c8724-13e8-4a55-bb32-987daf997449",
+            "position": [
+                50.0,
+                50.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "149fa867-219e-47f7-9919-2b00b994c2c0",
+            "position": [
+                50.0,
+                75.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "18e42dd3-1b9f-4212-b85b-76d5cef47a56",
+            "position": [
+                50.0,
+                100.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "d54455b1-3de3-4e48-9cc5-f251a6f13102",
+            "position": [
+                75.0,
+                0.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "16225342-15c6-4282-a04f-f58c6cccee2f",
+            "position": [
+                75.0,
+                25.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "b864c274-1d57-49a6-9776-b5fed1739fd5",
+            "position": [
+                75.0,
+                50.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "b66858d1-a215-42e0-91fb-076279856cbe",
+            "position": [
+                75.0,
+                75.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "5acec0ba-b827-417d-89b2-4df65f54aae2",
+            "position": [
+                75.0,
+                100.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "318cd995-d3e3-433a-a694-19f217ed0323",
+            "position": [
+                100.0,
+                0.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "20839923-3bba-4ed2-a788-dfcb50e458eb",
+            "position": [
+                100.0,
+                25.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "e6d50e40-ab95-4258-b46b-7cd88e9c3f54",
+            "position": [
+                100.0,
+                50.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "04a75dcf-eeec-448e-a7ff-c21b7e79a361",
+            "position": [
+                100.0,
+                75.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "91ad7cf3-b65f-4408-9079-3c80c845bb58",
+            "position": [
+                100.0,
+                100.0,
+                113.2
+            ]
+        },
+        {
+            "reference_uuid": "89bc98a3-011e-402f-b27a-359e5a74ac54",
+            "position": [
+                62.5,
+                50.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "e0116ea2-db51-4e83-bc01-089111d0935e",
+            "position": [
+                87.5,
+                50.0,
+                56.6
+            ]
+        },
+        {
+            "reference_uuid": "cae36851-8cc4-4432-876a-1c84f2cdd397",
+            "position": [
+                62.5,
+                62.5,
+                113.2
+            ]
+        }
+    ]
+}

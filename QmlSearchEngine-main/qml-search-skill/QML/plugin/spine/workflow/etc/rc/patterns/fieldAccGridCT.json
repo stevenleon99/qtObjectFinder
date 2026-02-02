@@ -1,0 +1,158 @@
+{
+    "_comment": "SPINE accuracy test plate fieldAccGridCT",
+    "reference_uuid": "fieldAccGridCT",
+    "fiducials": [
+        {
+            "reference_uuid": "51b974fb-b836-4689-863f-a536023a1923",
+            "position": [
+                72.0,
+                100.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "51b974fb-b836-4689-863f-a536023a1923",
+            "position": [
+                48.0,
+                100.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "51b974fb-b836-4689-863f-a536023a1923",
+            "position": [
+                24.0,
+                100.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "51b974fb-b836-4689-863f-a536023a1923",
+            "position": [
+                0.0,
+                100.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "51b974fb-b836-4689-863f-a536023a1923",
+            "position": [
+                72.0,
+                75.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "51b974fb-b836-4689-863f-a536023a1923",
+            "position": [
+                24.0,
+                75.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "51b974fb-b836-4689-863f-a536023a1923",
+            "position": [
+                0.0,
+                75.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "51b974fb-b836-4689-863f-a536023a1923",
+            "position": [
+                72.0,
+                50.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "51b974fb-b836-4689-863f-a536023a1923",
+            "position": [
+                48.0,
+                50.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "51b974fb-b836-4689-863f-a536023a1923",
+            "position": [
+                24.0,
+                50.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "51b974fb-b836-4689-863f-a536023a1923",
+            "position": [
+                0.0,
+                50.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "51b974fb-b836-4689-863f-a536023a1923",
+            "position": [
+                72.0,
+                25.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "51b974fb-b836-4689-863f-a536023a1923",
+            "position": [
+                48.0,
+                25.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "51b974fb-b836-4689-863f-a536023a1923",
+            "position": [
+                24.0,
+                25.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "51b974fb-b836-4689-863f-a536023a1923",
+            "position": [
+                0.0,
+                25.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "51b974fb-b836-4689-863f-a536023a1923",
+            "position": [
+                72.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "51b974fb-b836-4689-863f-a536023a1923",
+            "position": [
+                48.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "51b974fb-b836-4689-863f-a536023a1923",
+            "position": [
+                24.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "reference_uuid": "51b974fb-b836-4689-863f-a536023a1923",
+            "position": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    ]
+}

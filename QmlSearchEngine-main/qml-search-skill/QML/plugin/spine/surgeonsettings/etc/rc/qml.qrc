@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/spine/surgeonsettings/qml">
+        <file alias="SurgeonSettingsPlugin.qml">qml/SurgeonSettingsPlugin.qml</file>
+        <file alias="WorkflowSettings.qml">qml/WorkflowSettings.qml</file>
+        <file alias="CheckableSettingsItem.qml">qml/CheckableSettingsItem.qml</file>
+        <file alias="SurgeonSettingsDescription.qml">qml/SurgeonSettingsDescription.qml</file>
+        <file alias="PairingSystemsSettings.qml">qml/PairingSystemsSettings.qml</file>
+        <file alias="ViewportSettings.qml">qml/ViewportSettings.qml</file>
+        <file alias="SliderSettingsItem.qml">qml/SliderSettingsItem.qml</file>
+        <file alias="ViewportLayoutSettings.qml">qml/ViewportLayoutSettings.qml</file>
+    </qresource>
+</RCC>

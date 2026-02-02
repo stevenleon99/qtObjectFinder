@@ -1,0 +1,13 @@
+{
+	"instrument_name": "Calibration Fixture",
+	"instrument_uuid": "e6d6d324-1d7c-4f3b-a3a7-77dba6223f70",
+	"border_angle": 0.0, "border_inner_height": 0.0, "border_width": 0.0,
+	"diameter": 0.0,
+	"fiducial_type": 1,
+	"markers": [
+	   { "normal": [ 0.0, 0.0, 1.0 ], "position": [  220.955, 89.895, 9.799] },
+	   { "normal": [ 0.0, 0.0, 1.0 ], "position": [  271.084,21.886, 9.474] },
+	   { "normal": [ 0.0, 0.0, 1.0 ], "position": [  265.388, 82.81, 9.908] },
+   { "normal": [ 0.0, 0.0, 1.0 ], "position": [  220.442, 7.996, 9.852] }
+	  ]
+}

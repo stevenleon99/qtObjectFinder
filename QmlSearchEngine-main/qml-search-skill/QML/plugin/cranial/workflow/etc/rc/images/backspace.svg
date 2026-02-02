@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/backspace</title>
+    <g id="icon/backspace" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M44,6 L14,6 C12.62,6 11.54,6.7 10.82,7.76 L0,24 L10.82,40.22 C11.54,41.28 12.62,42 14,42 L44,42 C46.2,42 48,40.2 48,38 L48,10 C48,7.8 46.2,6 44,6 Z M38,31.18 L35.18,34 L28,26.82 L20.82,34 L18,31.18 L25.18,24 L18,16.82 L20.82,14 L28,21.18 L35.18,14 L38,16.82 L30.82,24 L38,31.18 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

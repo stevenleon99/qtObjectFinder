@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/cranial/surgeonsettings/qml">
+        <file alias="CranialSettingsPlugin.qml">qml/CranialSettingsPlugin.qml</file>
+		<file alias="CoordinateSettings.qml">qml/CoordinateSettings.qml</file>
+		<file alias="ViewportSettings.qml">qml/ViewportSettings.qml</file>	
+    </qresource>
+</RCC>

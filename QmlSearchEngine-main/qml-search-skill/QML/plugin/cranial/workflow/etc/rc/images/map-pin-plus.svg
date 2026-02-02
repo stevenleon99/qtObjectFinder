@@ -1,0 +1,5 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon/general/map-pin-plus">
+<path id="icon" fill-rule="evenodd" clip-rule="evenodd" d="M36 8C51.44 8 64 20.52 64 36C64 57 36 88 36 88C36 88 8 57 8 36C8 20.536 20.536 8 36 8ZM36 46C38.6522 46 41.1957 44.9464 43.0711 43.0711C44.9464 41.1957 46 38.6522 46 36C46 33.3478 44.9464 30.8043 43.0711 28.9289C41.1957 27.0536 38.6522 26 36 26C30.4772 26 26 30.4772 26 36C26 41.5228 30.4772 46 36 46ZM72 68H60V76H72V88H80V76H92V68H80V56H72V68Z" fill="white"/>
+</g>
+</svg>

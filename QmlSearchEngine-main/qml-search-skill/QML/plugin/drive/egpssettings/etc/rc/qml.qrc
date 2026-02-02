@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/egpssettings/qml">
+        <file alias="EgpsSettingsPlugin.qml">qml/EgpsSettingsPlugin.qml</file>
+        <file alias="BuildSettings.qml">qml/BuildSettings.qml</file>
+        <file alias="CalibrationSettings.qml">qml/CalibrationSettings.qml</file>
+        <file alias="LoadCellValue.qml">qml/LoadCellValue.qml</file>
+        <file alias="StabilizerOverridePopup.qml">qml/StabilizerOverridePopup.qml</file>
+        <file alias="TrackerSettings.qml">qml/TrackerSettings.qml</file>
+        <file alias="SettingsDescription.qml">qml/SettingsDescription.qml</file>
+        <file alias="WorkflowSettings.qml">qml/WorkflowSettings.qml</file>
+    </qresource>
+</RCC>

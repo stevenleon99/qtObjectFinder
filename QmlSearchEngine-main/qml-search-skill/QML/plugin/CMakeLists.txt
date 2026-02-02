@@ -1,0 +1,11 @@
+project(drive_plugin)
+
+gm_add_subdirectory(base)
+gm_add_subdirectory(common)
+gm_add_subdirectory(cranial)
+gm_add_subdirectory(drive)
+gm_add_subdirectory(eflex)
+gm_add_subdirectory(hip)
+gm_add_subdirectory(hip_new)
+gm_add_subdirectory(knee)
+gm_add_subdirectory(spine)

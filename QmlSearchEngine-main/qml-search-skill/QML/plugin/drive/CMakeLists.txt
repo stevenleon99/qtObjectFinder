@@ -1,0 +1,5 @@
+project(drive_plugins)
+
+gm_add_subdirectory(generalsettings)
+gm_add_subdirectory(egpssettings)
+gm_add_subdirectory(ehubsettings)

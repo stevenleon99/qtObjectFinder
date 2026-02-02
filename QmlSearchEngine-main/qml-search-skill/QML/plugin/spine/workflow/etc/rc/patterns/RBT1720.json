@@ -1,0 +1,134 @@
+{
+    "_comment": "RBT1720",
+    "reference_uuid": "RBT1720_NoUsed",
+    "fiducials": [
+        {
+            "reference_uuid": "42cee41f-cdae-45c9-821b-61d83f98f936",
+            "position": [
+                -84.049,
+                -0.022,
+                57.184
+            ]
+        },
+        {
+            "reference_uuid": "a1544b62-9ce0-4e63-93ea-a8d2eeb7076c",
+            "position": [
+                -84.028,
+                -0.047,
+                -4.707
+            ]
+        },
+        {
+            "reference_uuid": "650c5b80-0642-466e-961e-e465a58c316c",
+            "position": [
+                -84.034,
+				-0.064,
+				-57.078
+            ]
+        },
+        {
+            "reference_uuid": "07891a79-5de8-410b-9d62-1c10f83e3f2d",
+            "position": [
+                -59.395,
+				-59.434,
+				-31.68
+            ]
+        },
+        {
+            "reference_uuid": "f5342eba-10ed-4c15-ac9f-eb90c1fe4da1",
+            "position": [
+                0.031,
+				-84.032,
+				57.167
+            ]
+        },
+        {
+            "reference_uuid": "09731ca7-c32e-4b5b-9c85-4d2131e1adcd",
+            "position": [
+                0.022,
+				-84.047,
+				4.802
+            ]
+        },
+        {
+            "reference_uuid": "cbe85236-2948-4d71-b9fd-4a2c53c8a3b1",
+            "position": [
+                0.013,
+				-84.052,
+				-57.073
+            ]
+        },
+        {
+            "reference_uuid": "12e277c9-47f6-4657-82db-e4a34893e818",
+            "position": [
+                59.452,
+				-59.418,
+				31.758
+            ]
+        },
+        {
+            "reference_uuid": "d1fa0494-fbaa-4acf-a3c1-7aabf9cd086b",
+            "position": [
+                84.087,
+				0.018,
+				57.137
+            ]
+        },
+        {
+            "reference_uuid": "0a5ff789-76da-4a24-82cb-fbc6caa83ac8",
+            "position": [
+                84.07,
+				0.025,
+				-15.865
+            ]
+        },
+        {
+            "reference_uuid": "fe1a3c38-6c2d-4a8b-9240-6de18b8a33bf",
+            "position": [
+                84.034,
+				0.032,
+				-57.124
+            ]
+        },
+        {
+            "reference_uuid": "af56ef06-9751-4e08-adcb-bb1b6cc95a51",
+            "position": [
+                59.377,
+				59.419,
+				-31.715
+            ]
+        },
+        {
+            "reference_uuid": "f81b904e-28c6-432e-b111-6b5225b1619e",
+            "position": [
+                -0.008,
+				84.012,
+				57.146
+            ]
+        },
+        {
+            "reference_uuid": "f8b99f99-42af-4c19-9c94-6b4c885eb534",
+            "position": [
+                -0.021,
+				84.011,
+				15.894
+            ]
+        },
+        {
+            "reference_uuid": "20869606-c85b-4493-a0c7-050d608631d3",
+            "position": [
+                -0.052,
+				84.004,
+				-57.099
+            ]
+        },
+        {
+            "reference_uuid": "12bb502c-bc3c-4cec-9b91-982fea2585bd",
+            "position": [
+                -59.394,
+				59.368,
+				31.774
+            ]
+        }
+    ]
+}
