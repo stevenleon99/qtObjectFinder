@@ -1,7 +1,7 @@
 # QML Search Engine Skill
 
 ## Description
-This skill helps you search and analyze QT QML files for objects, components, ViewModels, and DVP (Data-View-Protocol) protocols in Qt/QML codebases. It's designed to help developers navigate large QML projects, understand component relationships, and locate specific objects quickly.
+This skill helps you search and analyze QT QML files for objects, components, ViewModels, and DVP (Data-View-Protocol) protocols in Qt/QML codebases. It's designed to help developers navigate large QML projects, understand component relationships, and locate specific objects quickly. This skill will not create new QML code block, but will assist in searching and locating existing QML elements.
 
 ## Instructions
 When a user query is received:
@@ -10,6 +10,8 @@ When a user query is received:
 3. Identify ViewModels and Model usage patterns
 4. Map relationships between QML components and C++ backend models
 5. Help locate DVP protocol implementations and usages
+6. Do not create new QML code blocks
+7. Locate existing QML elements based on user queries if existing, otherwise create new objectNames
 
 ## Capabilities
 - Search QML files for specific object types (Button, ListView, Rectangle, etc.)
