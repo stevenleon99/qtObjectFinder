@@ -1,55 +1,41 @@
 # QML Search Skill Resources
 
-This folder contains reference materials to help Claude understand and search QML files effectively.
+This directory provides reference materials to support effective searching and understanding of QML files.
 
-## Files in This Folder
+## Contents
 
-### 1. search-examples.md
-Example queries and expected responses when searching QML files.
-- Basic object searches
-- ViewModel location queries
-- Property binding searches
-- Advanced cross-file analysis
+- **search-examples.md**  
+	Provides practical examples of search queries in JSON format and their expected results. Demonstrates how to structure requests and interpret responses for common QML search scenarios
 
-### 2. dvp-protocols.md
-Reference guide for DVP (Data-View-Protocol) protocols used in the QML codebase.
-- Protocol categories (User, Patient, Case, System, etc.)
-- Common patterns and usage examples
-- How to identify protocol usage in QML files
+- **dvp-protocols.md**  
+	Reference for Data-View-Protocol (DVP) usage in QML:
+	- Protocol types (User, Patient, Case, System, etc.)
+	- Common usage patterns
+	- How to recognize protocol usage in QML files
 
-### 3. qml-patterns.md
-Common QML code patterns found in Qt applications.
-- Model instantiation examples
-- Property binding patterns
-- Signal handler patterns
-- Component hierarchies
+- **query-reply-format.md**  
+	Defines the standard JSON structure for search queries and replies, including required fields and example formats for both requests and responses.
 
-## How to Use This Skill
+- **qml-file-structure.md**  
+    Outlines the typical structure of QML files, including common directories and file organization patterns to help users navigate QML codebases effectively.
 
-1. **Upload your QML files** to the conversation
-2. **Ask questions** using natural language
-3. **Reference the examples** in search-examples.md for query inspiration
+## Usage Instructions
 
-## Example Workflow
+1. Upload a query in JSON format
+2. QML Search Skill processes the query against the files under QML/ directory, referencing `dvp-protocols.md` and `qml-file-structure.md`.
+3. Ask questions in natural language.
+4. Reply will be in JSON format as defined in `query-reply-format.md`.
 
-```
-1. Upload: MainPage.qml, PatientView.qml, CaseList.qml
-2. Ask: "Which files use PatientListModel?"
-3. Claude searches and responds with matching files
-4. Ask: "Show me all the property bindings in PatientView.qml"
-5. Claude lists all property bindings found
-```
 
-## Tips for Better Results
+## Tips
 
-- Be specific about what you're looking for
-- Mention file names if searching in specific files
-- Use terminology from dvp-protocols.md for better understanding
-- Ask follow-up questions to drill down into details
+- Be specific in your queries.
+- Mention file names for targeted searches.
+- Ask follow-up questions for more detail.
 
-## Skill Limitations
+## Limitations
 
-- Only analyzes uploaded QML files (cannot access local file system)
-- Requires valid QML syntax
-- Cannot execute or validate QML code
-- Does not analyze C++ implementation files
+- Only analyzes uploaded QML files under QML/ directory.
+- Requires valid QML syntax.
+- Cannot execute or validate QML code.
+- Does not analyze C++ implementation files.

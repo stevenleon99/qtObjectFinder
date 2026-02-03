@@ -4,8 +4,8 @@
 This skill helps you search and analyze QT QML files for objects, components, ViewModels, and DVP (Data-View-Protocol) protocols in Qt/QML codebases. It's designed to help developers navigate large QML projects, understand component relationships, and locate specific objects quickly.
 
 ## Instructions
-When a user uploads QML files or asks questions about QML code:
-1. Parse QML file structure to identify objects, components, and imports
+When a user query is received:
+1. Traverse QML file structure to identify objects, components, and imports
 2. Search for specific object types, IDs, or property names
 3. Identify ViewModels and Model usage patterns
 4. Map relationships between QML components and C++ backend models
@@ -22,9 +22,8 @@ When a user uploads QML files or asks questions about QML code:
 ## Key Concepts
 - **QML Objects**: Visual and non-visual items (Item, Rectangle, Button, ListView, etc.)
 - **ViewModels**: C++ classes exposed to QML for business logic (e.g., ApplicationViewModel, PatientDetailsModel)
-- **DVP Protocols**: Data-View-Protocol patterns connecting QML views with C++ models
+- **DVP Protocols**: Design Verification Protocols for GUI features
 - **Property Bindings**: Dynamic connections between QML properties
-- **Signal Handlers**: Event handlers like `onClicked`, `onCompleted`
 
 ## Use Cases
 1. **Find all instances of a specific object type**: "Search for all Button objects"
@@ -33,14 +32,6 @@ When a user uploads QML files or asks questions about QML code:
 4. **Search by object ID**: "Find the object with id: submitButton"
 5. **Analyze dependencies**: "What models does this QML file import?"
 6. **Refactoring support**: "List all files that reference UserViewModel"
-
-## Example Prompts
-- "Find all QML files that use ListView"
-- "Search for objects with id containing 'button'"
-- "Which files import the CaseExportViewModel?"
-- "Show me all signal handlers in this QML file"
-- "List all ViewModels used in the uploaded QML files"
-- "Find property bindings to patient model data"
 
 ## Technical Details
 - Supports Qt 5.x and Qt 6.x QML syntax
@@ -56,8 +47,18 @@ When a user uploads QML files or asks questions about QML code:
 - Does not validate property types or bindings at runtime
 
 ## Resources
+
 See the `resources/` folder for:
-- Example QML file structures
-- DVP protocol reference documentation
-- Common search query examples
-- Pattern matching guides
+
+- **search-examples.md**  
+	Practical examples of search queries in JSON format and their expected results. Demonstrates how to structure requests and interpret responses for common QML search scenarios.
+
+- **dvp-protocols.md**  
+	Reference for Data-View-Protocol (DVP) usage in QML, including protocol types (User, Patient, Case, System, etc.), common usage patterns, and how to recognize protocol usage in QML files.
+
+- **query-reply-format.md**  
+	Defines the standard JSON structure for search queries and replies, including required fields and example formats for both requests and responses.
+
+- **qml-file-structure.md**  
+	Outlines the typical structure of QML files, including common directories and file organization patterns to help users navigate QML codebases effectively.
+
